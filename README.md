@@ -56,8 +56,4 @@ The assessments follow a simplified penetration testing workflow:
 - Gobuster / FFUF
 - cURL
 
-## Disclaimer
 
-All testing documented in this repository was performed against
-intentionally vulnerable applications and authorized laboratory
-environments for educational purposes.
