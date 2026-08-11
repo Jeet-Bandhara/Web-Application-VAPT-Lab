@@ -31,20 +31,20 @@ The assessments follow a simplified penetration testing workflow:
 
 | # | Project | Status |
 |---|---|---|
-| 01 | Authentication Vulnerabilities | 🔵 Planned |
-| 02 | Authorization / IDOR | 🔵 Planned |
-| 03 | SQL Injection | 🔵 Planned |
-| 04 | XSS | 🔵 Planned |
-| 05 | CSRF | 🔵 Planned |
-| 06 | Command Injection | 🔵 Planned |
-| 07 | Path Traversal | 🔵 Planned |
-| 08 | File Upload | 🔵 Planned |
-| 09 | SSRF | 🔵 Planned |
-| 10 | XXE | 🔵 Planned |
-| 11 | SSTI | 🔵 Planned |
-| 12 | Business Logic | 🔵 Planned |
-| 13 | API Security | 🔵 Planned |
-| 14 | Vulnerability Chaining | 🔵 Planned |
+| 01 | Authentication Vulnerabilities | Completed |
+| 02 | Authorization / IDOR | Completed |
+| 03 | SQL Injection |  Planned |
+| 04 | XSS |  Planned |
+| 05 | CSRF | Planned |
+| 06 | Command Injection |  Planned |
+| 07 | Path Traversal |  Planned |
+| 08 | File Upload |  Planned |
+| 09 | SSRF |  Planned |
+| 10 | XXE |  Planned |
+| 11 | SSTI |  Planned |
+| 12 | Business Logic |  Planned |
+| 13 | API Security |  Planned |
+| 14 | Vulnerability Chaining |  Planned |
 
 ## Lab Environment
 
