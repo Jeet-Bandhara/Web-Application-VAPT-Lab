@@ -33,7 +33,7 @@ The assessments follow a simplified penetration testing workflow:
 |---|---|---|
 | 01 | Authentication Vulnerabilities | Completed |
 | 02 | Authorization / IDOR | Completed |
-| 03 | SQL Injection |  Planned |
+| 03 | SQL Injection |  Completed |
 | 04 | XSS |  Planned |
 | 05 | CSRF | Planned |
 | 06 | Command Injection |  Planned |
