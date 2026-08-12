@@ -35,7 +35,7 @@ The assessments follow a simplified penetration testing workflow:
 | 02 | Authorization / IDOR | Completed |
 | 03 | SQL Injection |  Completed |
 | 04 | XSS |  Completed |
-| 05 | CSRF | Planned |
+| 05 | CSRF | Completed |
 | 06 | Command Injection |  Planned |
 | 07 | Path Traversal |  Planned |
 | 08 | File Upload |  Planned |
